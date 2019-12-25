@@ -1,2 +1,2 @@
 # Simple Input Calculator
-Performs basic math calculations based in user's input.
+Performs basic math calculations based on user input.
